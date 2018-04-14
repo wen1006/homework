@@ -2,7 +2,6 @@
 ========================================================
 [C]
 
-
 #include<stdio.h> 
 #include<stdlib.h> 
 int main() { 
@@ -13,11 +12,8 @@ printf("攝氏溫度為%d\n",(a-32)*5/9);
 system("pause"); 
 return 0; 
 } 
-
-
 ========================================================
 [C++]
-
 
 #include <iostream>
 using namespace std;
@@ -32,7 +28,6 @@ int main ()
 }
 ========================================================
 [JAVA]
-
 
 package test01;
 import java.util.Scanner;
