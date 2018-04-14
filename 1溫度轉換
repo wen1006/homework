@@ -1,6 +1,7 @@
 華氏溫度換成攝氏溫度
 ========================================================
-"C"
+[C]
+
 
 #include<stdio.h> 
 #include<stdlib.h> 
@@ -15,7 +16,8 @@ return 0;
 
 
 ========================================================
-"C++"
+[C++]
+
 
 #include <iostream>
 using namespace std;
@@ -29,7 +31,8 @@ int main ()
    return 0;
 }
 ========================================================
-"JAVA"
+[JAVA]
+
 
 package test01;
 import java.util.Scanner;
